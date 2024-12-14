@@ -1,0 +1,13 @@
+body, html {
+    margin: 150;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(95, 95, 95);
+}
+
+form, p {
+    text-align: center;
+}
+
+#password {
+    font-size:large;
+}
