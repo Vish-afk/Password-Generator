@@ -1,1 +1,1 @@
-run password.py and open local host 
+run password.py and open ur local host 
